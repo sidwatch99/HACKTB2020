@@ -1,7 +1,6 @@
 #!/bin/python
-imoer math
-# data revovery addition
-#more feaisability
+import keras
+#add comments
 import math
 import os
 import random
@@ -19,3 +18,6 @@ if __name__ == '__main__':
     n = int(raw_input())
 
     extraLongFactorials(n)
+imoer math
+# data revovery addition
+#more feaisability

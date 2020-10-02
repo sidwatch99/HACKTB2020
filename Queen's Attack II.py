@@ -3,6 +3,9 @@ import os
 import random
 import re
 import sys
+#this is an amazing code
+impory keras 
+import tensorflow
 
 def check(cl,ch,arr):
     a=[cl,ch]

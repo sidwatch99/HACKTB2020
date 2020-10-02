@@ -5,6 +5,9 @@ import os
 import random
 import re
 import sys
+#add the libs and redo code
+import keras
+import tensorflow
 
 # Complete the findDigits function below.
 def findDigits(n):
