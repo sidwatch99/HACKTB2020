@@ -1,5 +1,7 @@
 #!/bin/python
-
+imoer math
+# data revovery addition
+#more feaisability
 import math
 import os
 import random
