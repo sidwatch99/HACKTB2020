@@ -5,7 +5,8 @@ import os
 import random
 import re
 import sys
-
+#add comments for readibilty
+import sklearn
 # Complete the jumpingOnClouds function below.
 def jumpingOnClouds(c, k):
     n=len(c)
