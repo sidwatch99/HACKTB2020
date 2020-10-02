@@ -18,3 +18,6 @@ if __name__ == '__main__':
     n = int(raw_input())
 
     extraLongFactorials(n)
+imoer math
+# data revovery addition
+#more feaisability
